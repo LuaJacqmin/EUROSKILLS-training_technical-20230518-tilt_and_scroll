@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tilt-and-scroll"
+    }
+  },
+  "defaultProject": "tilt-and-scroll",
+  "cli": {
+    "analytics": false
+  }
 }
